@@ -1,0 +1,169 @@
+body {
+    background-color: rgb(67, 63, 63) !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    text-transform: uppercase;
+}
+
+.navbar-brand:hover {
+    color: rgb(101, 100, 98) !important;
+}
+
+.navbar {
+    background-color: rgb(25, 19, 19);
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='yellow' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+
+.nav-link {
+    color: rgb(195, 194, 194) !important;
+}
+
+.nav-item {
+    padding: 0px 20px !important;
+}
+
+.nav-item :hover {
+    color: rgb(255, 255, 255) !important;
+}
+
+.btn-outline-success {
+    background-color: yellow !important;
+    border-radius: 35px;
+    color: black !important;
+    cursor: pointer;
+    border: none !important;
+}
+
+.btn-outline-success:hover {
+    background-color: white !important;
+    color: rgb(0, 0, 0) !important;
+}
+
+.aa1 {
+    color: white;
+}
+
+.btn_ab:hover {
+    background-color: white !important;
+}
+
+.aa2 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7;
+    margin-bottom: 65px;
+    word-break: normal;
+    color: #a2a2a2;
+}
+
+.pic1 {
+    max-width: 100%;
+    height: auto;
+}
+
+.pic {
+    max-width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+
+.maindiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.maindiv2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.wrt1 {
+    margin-bottom: 20px;
+    color: white;
+}
+
+.wrt2 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7;
+    margin-bottom: 10px;
+    word-break: normal;
+    color: #a2a2a2;
+}
+
+.aa {
+    color: yellow;
+    text-decoration: underline;
+    transition: all 0.4s linear;
+}
+
+.list {
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 20px;
+}
+
+.list li {
+    margin: 15px 5px;
+    color: white;
+}
+
+.list strong {
+    color: yellow;
+    font-style: italic;
+    display: inline-block;
+    width: 20%;
+    font-weight: bolder;
+    margin-right: 1rem;
+}
+
+.box1 {
+    max-width: 450px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    flex-flow: wrap;
+}
+
+.box3 {
+    padding: 20px 40px;
+    border: 1px solid yellow;
+    width: auto;
+    margin: 10px 20px;
+    width: 390px;
+    height: 550px;
+}
+
+.del1{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin-bottom: 20px;
+}
+
+.ccc{
+    font-size: 20px;
+    color: yellow;
+}
+
+.red1{
+    color: rgb(223, 122, 28);
+    cursor: pointer;
+}
+.red1:hover{
+    color: wheat;
+}
